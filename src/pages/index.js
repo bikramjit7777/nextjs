@@ -19,6 +19,9 @@ export default function Home() {
         <li>
           <Link href="/about">About</Link>
         </li>
+        <li>
+          <Link href="/contact">Contact Us</Link>
+        </li>
       </ul>
     </div>
   );
